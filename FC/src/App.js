@@ -12,18 +12,6 @@ const item = {
   price: 399,
   currency: '£'
 }
-
-// export default function App() {
-//   return (
-//     <div className="App">
-//       <ShopItemFunc item={item} />
-//     </div>
-//   );
-// }
-
-
-
-
 function App() {
   return (
     <div className="container">
